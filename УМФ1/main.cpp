@@ -4,7 +4,7 @@
 #include <iostream>
 #include <locale.h>
 using namespace std;
-
+//еепааоарпблблллрп
 double** A;
 double* F;
 int** KrUsel; // Массив граничных узлов
