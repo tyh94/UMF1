@@ -5,6 +5,8 @@
 #include <locale.h>
 using namespace std;
 //еепааоарпблблллрп
+//dfdfgg
+int a;
 double** A;
 double* F;
 int** KrUsel; // Массив граничных узлов
